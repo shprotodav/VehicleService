@@ -1,0 +1,13 @@
+V:\Программирование\VehicleService\VehicleService\VehicleService\bin\Debug\netcoreapp3.0\VehicleService.exe
+V:\Программирование\VehicleService\VehicleService\VehicleService\bin\Debug\netcoreapp3.0\VehicleService.deps.json
+V:\Программирование\VehicleService\VehicleService\VehicleService\bin\Debug\netcoreapp3.0\VehicleService.runtimeconfig.json
+V:\Программирование\VehicleService\VehicleService\VehicleService\bin\Debug\netcoreapp3.0\VehicleService.runtimeconfig.dev.json
+V:\Программирование\VehicleService\VehicleService\VehicleService\bin\Debug\netcoreapp3.0\VehicleService.dll
+V:\Программирование\VehicleService\VehicleService\VehicleService\bin\Debug\netcoreapp3.0\VehicleService.pdb
+V:\Программирование\VehicleService\VehicleService\VehicleService\obj\Debug\netcoreapp3.0\VehicleService.csprojAssemblyReference.cache
+V:\Программирование\VehicleService\VehicleService\VehicleService\obj\Debug\netcoreapp3.0\VehicleService.AssemblyInfoInputs.cache
+V:\Программирование\VehicleService\VehicleService\VehicleService\obj\Debug\netcoreapp3.0\VehicleService.AssemblyInfo.cs
+V:\Программирование\VehicleService\VehicleService\VehicleService\obj\Debug\netcoreapp3.0\VehicleService.csproj.CoreCompileInputs.cache
+V:\Программирование\VehicleService\VehicleService\VehicleService\obj\Debug\netcoreapp3.0\VehicleService.dll
+V:\Программирование\VehicleService\VehicleService\VehicleService\obj\Debug\netcoreapp3.0\VehicleService.pdb
+V:\Программирование\VehicleService\VehicleService\VehicleService\obj\Debug\netcoreapp3.0\VehicleService.genruntimeconfig.cache
